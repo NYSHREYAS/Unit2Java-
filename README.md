@@ -28,7 +28,3 @@ Integer
 Double
 
 
-#Key Concepts Covered
-*Constructors: Default and parameterized for efficient data initialization.
-*Method Overloading: Handling multiple data types with a single method name.
-*Object-Oriented Programming (OOP): Demonstrates code reusability and clean design.
